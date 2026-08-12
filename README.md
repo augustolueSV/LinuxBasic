@@ -52,8 +52,10 @@ LinuxBasic/
 ├── Class03.md
 ├── Class04.md
 ├── Class05.md
+├── Class06.md
 └── ejercicios/
-    └── ejercicio01_cli.sh
+    ├── ejercicio01_cli.sh
+    └── ejercicio02_cli.sh
 ```
 
 ### Descripción rápida
@@ -63,7 +65,9 @@ LinuxBasic/
 - Class03.md: comandos esenciales, redirecciones, pipes, grep, find y más práctica real.
 - Class04.md: resolución de ejercicios y cierre de la etapa introductoria.
 - Class05.md: administración de usuarios y grupos, sudo, permisos avanzados, systemd, backups y automatización con cron.
+- Class06.md: mantenimiento del sistema, monitorización, logs, seguridad básica y recuperación ante fallos.
 - ejercicios/ejercicio01_cli.sh: mini gestor de tareas escrito en Bash para practicar scripting y lógica.
+- ejercicios/ejercicio02_cli.sh: práctica guiada de administración básica con usuarios, grupos, permisos, sudo, systemd, backups y cron.
 
 ---
 
