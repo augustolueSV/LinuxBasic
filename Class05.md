@@ -742,7 +742,7 @@ Lo importante no es la cantidad de comandos, sino la lógica detrás de cada uno
 
 ---
 
-## 13. Frase final
+## 13. Frase final:
 
 Linux no es solo un sistema operativo: es una forma de pensar en el control, la seguridad y la organización. Cada usuario, cada permiso, cada servicio y cada tarea automática son piezas de un mismo mecanismo.
 
