@@ -51,6 +51,7 @@ LinuxBasic/
 ├── Class02.md
 ├── Class03.md
 ├── Class04.md
+├── Class05.md
 └── ejercicios/
     └── ejercicio01_cli.sh
 ```
@@ -61,6 +62,7 @@ LinuxBasic/
 - Class02.md: entorno de shell, scripting, variables, alias, usuarios, servicios y seguridad básica.
 - Class03.md: comandos esenciales, redirecciones, pipes, grep, find y más práctica real.
 - Class04.md: resolución de ejercicios y cierre de la etapa introductoria.
+- Class05.md: administración de usuarios y grupos, sudo, permisos avanzados, systemd, backups y automatización con cron.
 - ejercicios/ejercicio01_cli.sh: mini gestor de tareas escrito en Bash para practicar scripting y lógica.
 
 ---
